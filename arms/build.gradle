@@ -114,4 +114,7 @@ dependencies {
     testImplementation rootProject.ext.dependencies["junit"]
 }
 
-apply from: 'bintray.gradle'
+/***********     bintray     ************/
+//apply from: 'bintray.gradle'
+/*********** localhost nexus ************/
+apply from: 'nexus_maven.gradle'

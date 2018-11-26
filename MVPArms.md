@@ -1,8 +1,8 @@
 ![Logo](image/arms_banner_v1.0.jpg)
 
 <p align="center">
-   <a href="https://bintray.com/jessyancoding/maven/MVPArms/2.4.1/link">
-    <img src="https://img.shields.io/badge/Jcenter-v2.4.1-brightgreen.svg?style=flat-square" alt="Latest Stable Version" />
+   <a href="https://bintray.com/jessyancoding/maven/MVPArms/_latestVersion">
+    <img src="https://img.shields.io/badge/Jcenter-v2.5.0-brightgreen.svg?style=flat-square" alt="Latest Stable Version" />
   </a>
   <a href="https://travis-ci.org/JessYanCoding/MVPArms">
     <img src="https://travis-ci.org/JessYanCoding/MVPArms.svg?branch=master" alt="Build Status" />
@@ -16,8 +16,8 @@
   <a href="https://www.jianshu.com/u/1d0c0bc634db">
     <img src="https://img.shields.io/badge/Author-JessYan-orange.svg?style=flat-square" alt="Author" />
   </a>
-  <a href="https://shang.qq.com/wpa/qunwpa?idkey=1a5dc5e9b2e40a780522f46877ba243eeb64405d42398643d544d3eec6624917">
-    <img src="https://img.shields.io/badge/QQ群-301733278-orange.svg?style=flat-square" alt="QQ Group" />
+  <a href="https://shang.qq.com/wpa/qunwpa?idkey=7e59e59145e6c7c68932ace10f52790636451f01d1ecadb6a652b1df234df753">
+    <img src="https://img.shields.io/badge/QQ%E7%BE%A4-455850365%20%7C%20301733278-orange.svg?style=flat-square" alt="QQ Group" />
   </a>
 </p>
 
@@ -74,7 +74,7 @@
 
 ## Who is using MVPArms?
 
-**MVPArms** 从诞生之初, 一直真诚的为开发者做着力所能及的事, 从详细的 [**Wiki**文档](https://github.com/JessYanCoding/MVPArmsTemplate) 到高效的 [代码生成器](https://github.com/JessYanCoding/MVPArms/wiki), 无一不透露着 **MVPArms** 对开发者诚挚的付出和关怀  
+**MVPArms** 从诞生之初, 一直真诚的为开发者做着力所能及的事, 从详细的 [**Wiki**文档](https://github.com/JessYanCoding/MVPArms/wiki) 到高效的 [代码生成器](https://github.com/JessYanCoding/MVPArmsTemplate), 无一不透露着 **MVPArms** 对开发者诚挚的付出和关怀
 
 **MVPArms** 经过近两年时间殷勤的耕耘, 逐渐变得成熟, 稳定, 这不得不归功于 **MVPArms** 大家庭中每一位成员一直以来真诚的反馈和建议, 在此由衷的感谢他们为 **MVPArms** 做出的不可磨灭的贡献  
 
@@ -95,15 +95,11 @@
 ## Donate
 如果您认可 **MVPArms** 的代码质量,并使用 **MVPArms** 在实际开发中切实的提升了您的工作效率和开发能力,请您点击右上角 **Star** 支持一下谢谢!
 
-**MVPArms** 为作者使用业余时间维护,如果您觉得我的付出给您带来了实质的帮助,您也可以扫描下面的二维码,请作者喝一杯咖啡 ☕️～～
-
-![alipay](image/pay_alipay.jpg) ![](image/pay_wxpay.jpg)
-
 ## About Me
 * **Email**: <jess.yan.effort@gmail.com>  
 * **Home**: <http://jessyan.me>
-* **掘金**: <https://gold.xitu.io/user/57a9dbd9165abd0061714613>
-* **简书**: <http://www.jianshu.com/u/1d0c0bc634db>
+* **掘金**: <https://juejin.im/user/57a9dbd9165abd0061714613>
+* **简书**: <https://www.jianshu.com/u/1d0c0bc634db>
 
 ## License
 ``` 
